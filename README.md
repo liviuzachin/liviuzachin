@@ -2,7 +2,7 @@
 
 - 🔭 Currently working on [**ClearVUE.ZERO**](https://clearvue.business).
 - 🌱 Continuously learning about PHP, Laravel, JS, TS, Vue 3, Nuxt 3, and more.
-- 📫 If you like what I'm doing, consider following me on below links ✨ Thanks 🫶
+- 📫 If you like what I'm doing, consider following me on below links ✨ Thanks🙏
 
 <p align="center">
   <samp>
