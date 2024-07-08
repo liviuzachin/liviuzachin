@@ -7,7 +7,7 @@
 <p align="center">
   <samp>
     <a href="https://liviu.dev">website</a> .
-    <a href="https://x.com/liviuzachin">X</a> .
+    <a href="https://x.com/liviuzachin">x(twitter)</a> .
     <a href="https://liviu.dev/discord">discord</a> .
     <a href="https://instagram.com/luigindahouse">instagram</a> .
     <a href="https://github.com/sponsors/liviuzachin">sponsor</a>
