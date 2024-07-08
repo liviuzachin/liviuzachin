@@ -1,6 +1,6 @@
 ### Hi there, I'm Liviu, nice to e-meet you 👋
 
-- 🔭 Currently working on [**ClearVUE.ZERO**](https://clearvue.business).
+- 🔭 Currently working as a freelancer via [**Liviu.dev**](https://liviu.dev).
 - 🌱 Continuously learning about PHP, Laravel, JS, TS, Vue 3, Nuxt 3, and more.
 - 📫 If you like what I'm doing, consider following me on below links ✨ Thanks🙏
 
